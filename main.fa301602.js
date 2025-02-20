@@ -10285,7 +10285,7 @@
           let { hide: t } = e;
           const [r, a] = (0, n.useState)(),
             [i, o] = (0, n.useState)(),
-            l = ["",""],
+            l = ,
             s = _();
           return (0, me.jsxs)(me.Fragment, {
             children: [
